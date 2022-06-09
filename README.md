@@ -19,7 +19,7 @@
 - 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django , Java / Spring
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, Yii, CI, Node.js / Express, Python / Django , Java / Spring
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
