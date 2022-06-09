@@ -75,6 +75,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ibm9471&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <br><br>
   <img alt="Paul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ibm9471&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img src = "profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 </details>
 
